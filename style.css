@@ -1,0 +1,45 @@
+#divSchedule {
+}
+
+div.eventTitle {
+    font-size: larger;
+    font-weight: bold;
+}
+
+div.lastUpdated {
+    font-style: italic;
+    font-size: small;
+}
+
+div.run {
+    margin-top: 1em;
+    padding: 0.5em;
+    border-style: solid;
+    border-width: 1px;
+    display: flex
+}
+
+div.runTitleBlock {
+    width: 75%;
+}
+
+div.runStartBlock {
+    text-align: right;
+
+    width: 25%;
+}
+
+span.runTitle {
+    font-weight: bold;
+}
+
+span.runStart {
+}
+
+span.runCountdown {
+    font-weight: bolder;
+}
+
+span.runCategory {
+    font-style: italic
+}
